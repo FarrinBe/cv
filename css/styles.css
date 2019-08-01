@@ -1,0 +1,19 @@
+body {
+  background-color: #A8BBB0;
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+}
+
+h1 {
+  color: #EBE8E0;
+  font-family: webfonts/ostrich-sans-inline-regular;
+}
+
+h3 {
+  color: #D01110;
+}
